@@ -35,7 +35,7 @@
 - 🎓 Final-year **B.Tech Computer Science and Engineering (AI)** student at Jaipur Engineering College and Research Centre.
 - ☕ Backend developer focused on **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
 - 🔐 Building secure REST APIs using **JWT authentication, RBAC, validation, pagination, and OpenAPI documentation**.
-- 🧠 Solved **600+ Data Structures and Algorithms problems** across LeetCode and GeeksforGeeks.
+- 🧠 Solved **800+ Data Structures and Algorithms problems** across LeetCode and GeeksforGeeks.
 - ⚙️ Exploring **system design, Redis, microservices, Docker, and scalable backend architecture**.
 - 🎯 Open to **Java Backend Developer, Software Engineer, and SDE opportunities**.
 
