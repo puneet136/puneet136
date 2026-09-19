@@ -206,7 +206,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🧩 Solved **600+ DSA problems** on LeetCode and GeeksforGeeks.
+- 🧩 Solved **800+ DSA problems** on LeetCode and GeeksforGeeks.
 - 🌍 Contributed code and bug fixes to open-source projects, with a contribution merged and adopted by the community.
 - 💡 Participated in the **Smart India Hackathon**.
 - 🏅 [ServiceNow Certified Application Developer (CAD)](https://www.credly.com/badges/48ac2b1a-150b-409b-96da-302c6617c849/public_url)
@@ -217,4 +217,4 @@
 ## 🎯 Current Focus
 
 ```text
-Clean Java Code  →  Secure APIs  →  Scalable Systems  →  Reliable Products
+Clean Java Code  →  Secure APIs  →  Scalable Systems  →  Secure Systems → Reliable Products
