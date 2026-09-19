@@ -1,93 +1,47 @@
-<h1 align="center">Hi, I'm Puneet Agrawal 👋</h1>
+<div align="center">
 
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Spring Security</h3>
+<h1>Hi 👋, I'm Puneet Agrawal</h1>
 
-<p align="center">
-  Final-year CSE (AI) student building secure, scalable, and production-ready backend systems.
+<h3>Java Backend Developer | Spring Boot | REST APIs | Problem Solver</h3>
+
+<p>
+  Final-year CSE (AI) student building secure, scalable, and reliable backend applications.
 </p>
 
-<p align="center">
-  <a href="https://github.com/puneet136"><img src="https://img.shields.io/badge/GitHub-puneet136-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/puneet-agrawal/"><img src="https://img.shields.io/badge/LinkedIn-Puneet_Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:puneetagrawalspu@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://www.linkedin.com/in/puneet-agrawal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Puneet_Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:puneetagrawalspu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/puneet136">
+  <img src="https://img.shields.io/badge/GitHub-puneet136-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.24-2F80ED?style=flat-square" alt="CGPA 9.24" />
-  <img src="https://img.shields.io/badge/DSA_Problems-600%2B-F89F1B?style=flat-square" alt="600+ DSA Problems" />
-  <img src="https://img.shields.io/badge/REST_APIs-15%2B-6DB33F?style=flat-square" alt="15+ REST APIs" />
-  <img src="https://img.shields.io/badge/Project_Records-1000%2B-4479A1?style=flat-square" alt="1000+ Project Records" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CGPA-9.24-2F80ED?style=flat-square" alt="CGPA 9.24" />
+<img src="https://img.shields.io/badge/DSA_Problems-600%2B-F89F1B?style=flat-square" alt="600+ DSA Problems" />
+<img src="https://img.shields.io/badge/REST_APIs-15%2B-6DB33F?style=flat-square" alt="15+ REST APIs" />
+<img src="https://img.shields.io/badge/Records_Handled-1000%2B-4479A1?style=flat-square" alt="1000+ Records" />
+<img src="https://komarev.com/ghpvc/?username=puneet136&label=Profile%20Views&color=7F3FBF&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - 🎓 Final-year **B.Tech Computer Science and Engineering (AI)** student at Jaipur Engineering College and Research Centre.
-- ☕ Backend-focused developer working primarily with **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
-- 🔐 I build secure REST APIs with **JWT authentication, RBAC, pagination, validation, and OpenAPI documentation**.
-- 🧠 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks.
-- 🌱 Currently strengthening **system design, Redis, microservices, Docker, and scalable backend architecture**.
+- ☕ Backend developer focused on **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
+- 🔐 Building secure REST APIs using **JWT authentication, RBAC, validation, pagination, and OpenAPI documentation**.
+- 🧠 Solved **600+ Data Structures and Algorithms problems** across LeetCode and GeeksforGeeks.
+- ⚙️ Exploring **system design, Redis, microservices, Docker, and scalable backend architecture**.
 - 🎯 Open to **Java Backend Developer, Software Engineer, and SDE opportunities**.
 
 ---
 
-## Experience
-
-### Junior Software Developer Intern — Suprazo Technologies
-
-`Remote` · `Oct 2025 - Dec 2025`
-
-- Troubleshot frontend and backend issues to improve application stability.
-- Enhanced **10+ responsive web pages** using HTML, CSS, and ReactJS, validating functionality through browser testing and API verification.
-- Delivered **10+ feature enhancements** through Git-based collaboration, code reviews, and sprint-driven development.
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Job Portal Backend System</h3>
-      <p align="center">
-        <a href="https://github.com/puneet136/Job_Portal"><b>Source Code</b></a> ·
-        <a href="https://job-portal-api-erlx.onrender.com/swagger-ui/index.html"><b>Live API</b></a>
-      </p>
-      <p>
-        A scalable backend supporting recruiter and applicant workflows while handling <b>1000+ job and application records</b>.
-      </p>
-      <ul>
-        <li>JWT authentication and role-based authorization</li>
-        <li>15+ documented REST APIs with Swagger/OpenAPI</li>
-        <li>Pagination and optimized data-access queries</li>
-        <li>MySQL persistence with Spring Data JPA</li>
-      </ul>
-      <p><b>Java 21 · Spring Boot · Spring Security · JPA · MySQL · JWT · OpenAPI</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Gradify — Academic Management Portal</h3>
-      <p align="center">
-        <a href="https://github.com/puneet136/Gradify-Smart-Academic-Management-Portal"><b>Source Code</b></a> ·
-        <a href="https://gradify.infinityfree.me/dept/Home.php?i=1"><b>Live Application</b></a>
-      </p>
-      <p>
-        A role-based academic portal for HODs, faculty, and students, designed to support <b>200+ users</b>.
-      </p>
-      <ul>
-        <li>Secure session authentication and RBAC</li>
-        <li>Attendance, examination, and student records</li>
-        <li>Normalized MySQL schema with 8+ relational tables</li>
-        <li>Data integrity and query-performance focused design</li>
-      </ul>
-      <p><b>PHP · JavaScript · ReactJS · MySQL · HTML · CSS</b></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Technical Toolkit
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -115,7 +69,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Developer Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -127,7 +81,120 @@
 
 ---
 
-## Education
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/puneet136">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=puneet136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Puneet's GitHub Stats" />
+</a>
+<a href="https://github.com/puneet136">
+  <img width="37%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=puneet136&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Puneet's Most Used Languages" />
+</a>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/puneet136">
+  <img src="https://streak-stats.demolab.com?user=puneet136&theme=tokyonight&hide_border=true&border_radius=10" alt="Puneet's GitHub Streak" />
+</a>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/puneet136">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet136&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Puneet%27s%20Contribution%20Graph" alt="Puneet's GitHub Contribution Graph" />
+</a>
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Puneet_13/">
+  <img width="70%" src="https://leetcard.jacoblin.cool/Puneet_13?theme=dark&font=Roboto&ext=contest&border=0" alt="Puneet's LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Puneet_13/">
+  <img src="https://img.shields.io/badge/LeetCode-Puneet__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/puneetagr3xdi">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-puneetagr3xdi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://codeforces.com/profile/puneetagrawalspu">
+  <img src="https://img.shields.io/badge/Codeforces-puneetagrawalspu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://www.codechef.com/users/puneetagrawal">
+  <img src="https://img.shields.io/badge/CodeChef-puneetagrawal-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Job Portal Backend System</h3>
+      <p align="center">
+        <a href="https://github.com/puneet136/Job_Portal"><b>Source Code</b></a> ·
+        <a href="https://job-portal-api-erlx.onrender.com/swagger-ui/index.html"><b>Live API</b></a>
+      </p>
+      <p>A scalable backend supporting recruiter and applicant workflows while handling <b>1000+ job and application records</b>.</p>
+      <ul>
+        <li>JWT authentication and role-based authorization</li>
+        <li>15+ documented REST APIs using Swagger/OpenAPI</li>
+        <li>Pagination and optimized data-access queries</li>
+        <li>MySQL persistence with Spring Data JPA</li>
+      </ul>
+      <p align="center"><b>Java 21 · Spring Boot · Security · JPA · MySQL · JWT</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gradify — Academic Portal</h3>
+      <p align="center">
+        <a href="https://github.com/puneet136/Gradify-Smart-Academic-Management-Portal"><b>Source Code</b></a> ·
+        <a href="https://gradify.infinityfree.me/dept/Home.php?i=1"><b>Live Application</b></a>
+      </p>
+      <p>A role-based academic management portal for HODs, faculty, and students, supporting <b>200+ users</b>.</p>
+      <ul>
+        <li>Secure session authentication and RBAC</li>
+        <li>Attendance, examination, and student records</li>
+        <li>Normalized MySQL schema with 8+ relational tables</li>
+        <li>Data-integrity and query-performance focused design</li>
+      </ul>
+      <p align="center"><b>PHP · JavaScript · ReactJS · MySQL · HTML · CSS</b></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### Junior Software Developer Intern — Suprazo Technologies
+
+`Remote` · `Oct 2025 - Dec 2025`
+
+- Troubleshot frontend and backend issues to improve application stability.
+- Enhanced **10+ responsive web pages** using HTML, CSS, and ReactJS while validating functionality through browser testing and API verification.
+- Delivered **10+ feature enhancements** through Git-based collaboration, code reviews, and sprint-driven development.
+
+---
+
+## 🎓 Education
 
 | Qualification | Institute / Board | Year | Result |
 |---|---|---:|---:|
@@ -137,7 +204,7 @@
 
 ---
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 - 🧩 Solved **600+ DSA problems** on LeetCode and GeeksforGeeks.
 - 🌍 Contributed code and bug fixes to open-source projects, with a contribution merged and adopted by the community.
@@ -147,18 +214,7 @@
 
 ---
 
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Puneet_13/"><img src="https://img.shields.io/badge/LeetCode-Puneet__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/puneetagr3xdi"><img src="https://img.shields.io/badge/GeeksforGeeks-puneetagr3xdi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://codeforces.com/profile/puneetagrawalspu"><img src="https://img.shields.io/badge/Codeforces-puneetagrawalspu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/puneetagrawal"><img src="https://img.shields.io/badge/CodeChef-puneetagrawal-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</p>
-
----
-
-## What I'm Working Toward
+## 🎯 Current Focus
 
 ```text
-Clean Java code  →  Secure APIs  →  Scalable systems  →  Reliable products
+Clean Java Code  →  Secure APIs  →  Scalable Systems  →  Reliable Products
