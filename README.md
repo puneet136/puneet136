@@ -23,8 +23,8 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/CGPA-9.24-2F80ED?style=flat-square" alt="CGPA 9.24" />
-<img src="https://img.shields.io/badge/DSA_Problems-600%2B-F89F1B?style=flat-square" alt="600+ DSA Problems" />
-<img src="https://img.shields.io/badge/REST_APIs-15%2B-6DB33F?style=flat-square" alt="15+ REST APIs" />
+<img src="https://img.shields.io/badge/DSA_Problems-800%2B-F89F1B?style=flat-square" alt="800+ DSA Problems" />
+<img src="https://img.shields.io/badge/REST_APIs-50%2B-6DB33F?style=flat-square" alt="50+ REST APIs" />
 <img src="https://img.shields.io/badge/Project_Records-1000%2B-4479A1?style=flat-square" alt="1000+ Project Records" />
 
 </div>
@@ -36,27 +36,41 @@
 - 🎓 Final-year **B.Tech CSE (AI)** student at Jaipur Engineering College and Research Centre with a **9.24 CGPA**.
 - ☕ Backend-focused developer working with **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
 - 🔐 Experienced in building APIs with **JWT authentication, RBAC, pagination, validation, and OpenAPI documentation**.
-- 🧠 Solved **600+ DSA problems** and currently strengthening system design, Redis, microservices, and Docker.
+- 🧠 Solved **800+ DSA problems** and currently strengthening system design, Redis, microservices, and Docker.
+
+---
+
+## Why Me?
+
+I bring a backend-first engineering mindset with the ability to take a feature from **database design and secure API development to testing and deployment**. My project experience includes role-based systems, authentication, relational data modelling, and production-oriented REST APIs. I combine strong Java fundamentals, consistent problem-solving practice, and a focus on writing secure, maintainable code that solves real user problems.
 
 ---
 
 ## Core Tech Stack
 
+| Area | Technologies |
+|---|---|
+| **Backend** | Java 21 · Spring Boot · Spring Security · JWT · REST APIs · Spring Data JPA · Hibernate |
+| **Database** | MySQL · PostgreSQL · Redis |
+| **Tools** | Git · GitHub · Maven · Docker · Postman · Swagger / OpenAPI |
+| **Frontend Exposure** | ReactJS · JavaScript · HTML · CSS · Bootstrap · Thymeleaf |
+
+---
+
+## Currently Learning & Focus Areas
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/JPA_%26_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA and Hibernate" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge" alt="Microservices" />
+<img src="https://img.shields.io/badge/System_Design-4B32C3?style=for-the-badge" alt="System Design" />
 
 </div>
 
 <p align="center">
-  <b>Also worked with:</b> JDBC · Maven · Postman · ReactJS · JavaScript · PHP · HTML · CSS · Docker
+  Strengthening practical knowledge of caching, asynchronous communication, containerization, distributed services, and scalable backend architecture.
 </p>
 
 ---
@@ -95,6 +109,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Featured Repositories
+
+| Repository | Highlights |
+|---|---|
+| [Library Management System](https://github.com/puneet136?tab=repositories&q=library&type=&language=&sort=) | Java CLI application with user authentication, book management, issue/return workflows, feedback, and MySQL integration. |
+| [Smart Contact Manager](https://github.com/puneet136?tab=repositories&q=contact&type=&language=&sort=) | Spring Boot application demonstrating Spring Security, JPA entity relationships, authentication, and contact CRUD operations. |
+| [Explore All Repositories](https://github.com/puneet136?tab=repositories) | More Java, Spring Boot, database, web development, and problem-solving projects. |
 
 ---
 
@@ -171,7 +195,7 @@
 
 | Qualification | Institute / Board | Year | Result |
 |---|---|---:|---:|
-| B.Tech CSE (AI) | Jaipur Engineering College and Research Centre | 2023-2027 | **9.24 CGPA** |
+| B.Tech CSE (AI) | Jaipur Engineering College and Research Centre | 2023–2027 | **9.24 CGPA** |
 | Senior Secondary | Rajasthan Board of Secondary Education | 2022 | **92.00%** |
 | Secondary | Rajasthan Board of Secondary Education | 2020 | **90.50%** |
 
@@ -179,7 +203,7 @@
 
 ## Achievements & Certifications
 
-- 🧩 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks.
+- 🧩 Solved **800+ DSA problems** across LeetCode and GeeksforGeeks.
 - 🌍 Contributed code and bug fixes to open-source projects, with a contribution merged and adopted by the community.
 - 💡 Participated in the **Smart India Hackathon**.
 - 🏅 [ServiceNow Certified Application Developer (CAD)](https://www.credly.com/badges/48ac2b1a-150b-409b-96da-302c6617c849/public_url)
