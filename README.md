@@ -109,7 +109,7 @@
 <div align="center">
 
 <a href="https://github.com/puneet136">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet136&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Puneet%27s%20Contribution%20Graph" alt="Puneet's GitHub Contribution Graph" />
+  <img width="96%" src="https://ghchart.rshah.org/70A5FD/puneet136" alt="Puneet's GitHub Contribution Graph" />
 </a>
 
 </div>
