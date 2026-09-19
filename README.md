@@ -21,8 +21,8 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/CGPA-9.24-2F80ED?style=flat-square" alt="CGPA 9.24" />
-<img src="https://img.shields.io/badge/DSA_Problems-800%2B-F89F1B?style=flat-square" alt="800+ DSA Problems" />
-<img src="https://img.shields.io/badge/REST_APIs-50%2B-6DB33F?style=flat-square" alt="50+ REST APIs" />
+<img src="https://img.shields.io/badge/DSA_Problems-600%2B-F89F1B?style=flat-square" alt="600+ DSA Problems" />
+<img src="https://img.shields.io/badge/REST_APIs-15%2B-6DB33F?style=flat-square" alt="15+ REST APIs" />
 <img src="https://img.shields.io/badge/Records_Handled-1000%2B-4479A1?style=flat-square" alt="1000+ Records" />
 <img src="https://komarev.com/ghpvc/?username=puneet136&label=Profile%20Views&color=7F3FBF&style=flat-square" alt="Profile Views" />
 
@@ -35,7 +35,7 @@
 - 🎓 Final-year **B.Tech Computer Science and Engineering (AI)** student at Jaipur Engineering College and Research Centre.
 - ☕ Backend developer focused on **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
 - 🔐 Building secure REST APIs using **JWT authentication, RBAC, validation, pagination, and OpenAPI documentation**.
-- 🧠 Solved **800+ Data Structures and Algorithms problems** across LeetCode and GeeksforGeeks.
+- 🧠 Solved **600+ Data Structures and Algorithms problems** across LeetCode and GeeksforGeeks.
 - ⚙️ Exploring **system design, Redis, microservices, Docker, and scalable backend architecture**.
 - 🎯 Open to **Java Backend Developer, Software Engineer, and SDE opportunities**.
 
@@ -126,6 +126,28 @@
 
 <br/><br/>
 
+<h3>🔵 Codeforces</h3>
+
+<a href="https://codeforces.com/profile/puneetagrawalspu">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=puneetagrawalspu&theme=tokyonight" alt="Puneet's Codeforces Rating Badge" />
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/puneetagrawalspu">
+  <img width="70%" src="https://codeforces-readme-stats.vercel.app/api/card?username=puneetagrawalspu&theme=tokyonight" alt="Puneet's Codeforces Stats" />
+</a>
+
+<br/><br/>
+
+<h3>🟤 CodeChef</h3>
+
+<a href="https://www.codechef.com/users/puneetagrawal">
+  <img width="70%" src="https://codechef-readme-stats.onrender.com/puneetagrawal?v=2" alt="Puneet's CodeChef Stats" />
+</a>
+
+<br/><br/>
+
 <a href="https://leetcode.com/u/Puneet_13/">
   <img src="https://img.shields.io/badge/LeetCode-Puneet__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
@@ -206,7 +228,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🧩 Solved **800+ DSA problems** on LeetCode and GeeksforGeeks.
+- 🧩 Solved **600+ DSA problems** on LeetCode and GeeksforGeeks.
 - 🌍 Contributed code and bug fixes to open-source projects, with a contribution merged and adopted by the community.
 - 💡 Participated in the **Smart India Hackathon**.
 - 🏅 [ServiceNow Certified Application Developer (CAD)](https://www.credly.com/badges/48ac2b1a-150b-409b-96da-302c6617c849/public_url)
@@ -217,4 +239,4 @@
 ## 🎯 Current Focus
 
 ```text
-Clean Java Code  →  Secure APIs  →  Scalable Systems  →  Secure Systems → Reliable Products
+Clean Java Code  →  Secure APIs  →  Scalable Systems  →  Reliable Products
