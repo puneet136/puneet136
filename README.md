@@ -17,3 +17,15 @@ Backend Developer | Java & Spring Boot | Problem Solver | Exploring System Desig
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer focused on **Java & Spring Boot**
+- 🔐 Building secure REST APIs using **Spring Security & JWT**
+- 🗄️ Working with **MySQL, JPA & Hibernate**
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- ⚙️ Learning **System Design, Redis and scalable backend architecture**
+- 🌱 Exploring **Docker, Cloud and AI integrations**
+- 🎯 Interested in Backend / Software Engineer opportunities
