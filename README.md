@@ -98,7 +98,7 @@ Backend Developer | Java & Spring Boot | Problem Solver | Exploring System Desig
 
 <p align="center">
   <a href="https://leetcode.com/u/Puneet_13/">
-    <img src="https://img.shields.io/badge/View_My_LeetCode_Profile-Puneet__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View_LeetCode_Profile-Puneet__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -122,17 +122,12 @@ Backend Developer | Java & Spring Boot | Problem Solver | Exploring System Desig
 
 <p align="center">
   <a href="https://codeforces.com/profile/puneetagrawalspu">
-    <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=puneetagrawalspu"
-      alt="Puneet Agrawal Codeforces Stats"
-    />
+    <img src="https://img.shields.io/badge/Codeforces-puneetagrawalspu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/puneetagrawalspu">
-    <img src="https://img.shields.io/badge/View_Codeforces_Profile-puneetagrawalspu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  <b>Competitive Programming • Algorithms • Contests</b>
 </p>
 
 ---
@@ -151,41 +146,16 @@ Backend Developer | Java & Spring Boot | Problem Solver | Exploring System Desig
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Profile
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=puneet136&theme=github_dark"
-    alt="Puneet GitHub Stats"
-  />
+  <a href="https://github.com/puneet136">
+    <img src="https://img.shields.io/badge/GitHub-puneet136-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puneet136&theme=github_dark"
-    alt="Puneet Top Languages"
-  />
-</p>
+  <img src="https://img.shields.io/github/followers/puneet136?style=for-the-badge&logo=github&label=Followers"/>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=puneet136&theme=github_dark"
-    alt="Most Commit Language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puneet136&theme=github_dark&utcOffset=5.5"
-    alt="Puneet Productive Time"
-  />
-</p>
-
----
-
-# 📈 GitHub Profile Overview
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneet136&theme=github_dark"
-    alt="Puneet GitHub Profile Details"
-  />
+  <img src="https://img.shields.io/github/stars/puneet136?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
 </p>
 
 ---
@@ -201,7 +171,7 @@ Backend Developer | Java & Spring Boot | Problem Solver | Exploring System Desig
 
 ---
 
-# 🔗 Coding Profile Links
+# 🔗 All Coding Profiles
 
 <p align="center">
 
