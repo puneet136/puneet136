@@ -21,8 +21,8 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/CGPA-9.24-2F80ED?style=flat-square" alt="CGPA 9.24" />
-<img src="https://img.shields.io/badge/DSA_Problems-600%2B-F89F1B?style=flat-square" alt="800+ DSA Problems" />
-<img src="https://img.shields.io/badge/REST_APIs-15%2B-6DB33F?style=flat-square" alt="50+ REST APIs" />
+<img src="https://img.shields.io/badge/DSA_Problems-800%2B-F89F1B?style=flat-square" alt="800+ DSA Problems" />
+<img src="https://img.shields.io/badge/REST_APIs-50%2B-6DB33F?style=flat-square" alt="50+ REST APIs" />
 <img src="https://img.shields.io/badge/Records_Handled-1000%2B-4479A1?style=flat-square" alt="1000+ Records" />
 <img src="https://komarev.com/ghpvc/?username=puneet136&label=Profile%20Views&color=7F3FBF&style=flat-square" alt="Profile Views" />
 
