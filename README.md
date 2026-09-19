@@ -80,3 +80,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneet136&la
 src="https://streak-stats.demolab.com?user=puneet136&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<img
+src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Roboto&ext=contest"
+/>
+
+</p>
