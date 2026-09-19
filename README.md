@@ -92,3 +92,10 @@ src="https://leetcard.jacoblin.cool/Puneet_13?theme=dark&font=Roboto&ext=contest
 />
 
 </p>
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=puneet136&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
