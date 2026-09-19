@@ -88,7 +88,7 @@ src="https://streak-stats.demolab.com?user=puneet136&theme=github-dark-blue&hide
 <p align="center">
 
 <img
-src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Roboto&ext=contest"
+src="https://leetcard.jacoblin.cool/Puneet_13?theme=dark&font=Roboto&ext=contest"
 />
 
 </p>
